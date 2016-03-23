@@ -1,6 +1,6 @@
 {
   "name": "TOCropViewController",
-  "version": "1.0.9",
+  "version": "1.2.7",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -10,7 +10,7 @@
   "authors": "Tim Oliver",
   "source": {
     "git": "git@github.com:meitianapp/TOCropViewController.git",
-    "tag": "1.0.9"
+    "tag": "1.2.7"
   },
   "platforms": {
     "ios": "7.0"
