@@ -9,7 +9,7 @@
   "homepage": "https://github.com/TimOliver/TOCropViewController",
   "authors": "Tim Oliver",
   "source": {
-    "git": "git@github.com:meitianapp/TOCropViewController.git",
+    "git": "https://github.com/meitianapp/TOCropViewController.git",
     "tag": "1.2.7"
   },
   "platforms": {
